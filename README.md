@@ -23,3 +23,18 @@ Make sure you have the following installed:
 Install the required Python packages by running:
 ```bash
 pip install -r requirements.txt
+
+## Requirements
+
+The `requirements.txt` file should contain:
+
+```txt
+Pillow
+pytesseract
+gTTS
+playsound
+
+Clone the repository:
+git clone https://github.com/yourusername/image-to-speech-converter.git
+cd image-to-speech-converter
+
