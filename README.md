@@ -61,7 +61,7 @@ The script will extract text from the image and convert it to speech. The output
 ## Example
 
 ### Input Image:
-![ocr-test](https://github.com/user-attachments/assets/4b3c8968-d5e1-4861-9c8c-e838239ac28a)
+![Screenshot 2024-09-09 112043](https://github.com/user-attachments/assets/0dd68111-f54e-4a49-8382-5b285408a8b7)
 ### Output:
 ![Screenshot 2024-09-09 112009](https://github.com/user-attachments/assets/c8f0ac56-a374-4845-842f-cfcea25a35fe)
 - The extracted text will be printed in the console.
