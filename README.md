@@ -61,22 +61,8 @@ The script will extract text from the image and convert it to speech. The output
 ## Example
 
 ### Input Image:
-(Add the input image here)
-
+![ocr-test](https://github.com/user-attachments/assets/4b3c8968-d5e1-4861-9c8c-e838239ac28a)
 ### Output:
+![Screenshot 2024-09-09 112009](https://github.com/user-attachments/assets/c8f0ac56-a374-4845-842f-cfcea25a35fe)
 - The extracted text will be printed in the console.
 - The speech will be saved as `sound.mp3`.
-
-## Screenshots
-
-Below are some screenshots of the application in action:
-
-### OCR Text Extraction:
-(Add OCR text extraction screenshot here)
-
-### Audio File Creation:
-(Add audio file creation screenshot here)
-
-## Sample Images
-
-Check out the `sample-images` folder for images you can use to test the application.
